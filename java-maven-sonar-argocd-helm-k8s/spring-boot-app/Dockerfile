@@ -14,7 +14,6 @@
 
 
 
-#Use Java 17
 # Use Java 17 JDK instead of JRE
 # FROM eclipse-temurin:17-jdk-alpine  
 
