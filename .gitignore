@@ -36,3 +36,6 @@ terraform.rc
 
 # Python environment
 .env
+
+#ignore
+.jar
